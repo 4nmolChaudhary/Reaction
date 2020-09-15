@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save reaction
+npm install --save reaction-ui
 ```
 
 ## Usage
@@ -15,8 +15,7 @@ npm install --save reaction
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'reaction'
-import 'reaction/dist/index.css'
+import MyComponent from 'reaction-ui'
 
 class Example extends Component {
   render() {
